@@ -2,7 +2,7 @@
 
 This repository contains my hands-on learning journey for Computer Vision and Pattern Recognition (CVPR).
 
-All codes, experiments, and practice implementations from my coursework are developed and tested using Google Colab and pushed here for version control and structured learning.
+All codes, experiments, and practice implementations from my coursework are developed and tested using Kaggle and pushed here for version control and structured learning.
 
 ----------------------------------
 📚 What This Repository Covers
